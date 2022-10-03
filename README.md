@@ -11,5 +11,5 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuroop2&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuroop2&layout=compact&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuroop2&show_icons=true&theme=buefy&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuroop2&layout=compact&theme=buefy&card_width=200)
