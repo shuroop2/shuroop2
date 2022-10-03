@@ -12,4 +12,4 @@
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuroop2&show_icons=true&theme=buefy&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuroop2&layout=compact&theme=buefy&card_width=200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuroop2&layout=compact&theme=buefy&card_width=300)
