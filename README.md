@@ -15,6 +15,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-7E4DD2?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MsSQL](https://img.shields.io/badge/mssql-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ## 🌟Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuroop2&show_icons=true&theme=buefy&card_width=400)
